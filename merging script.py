@@ -2,7 +2,7 @@ import os
 import xml.etree.ElementTree as ET
 
 # Directory where your XML files are stored
-directory = 'C:\\Users\\Thomas\\Desktop\\Decks\\Vocab\\Genki1Vocab'
+directory = 'C:\\Users\\WhereverYouHeartdesires'
 
 # Create the root element for the merged XML
 merged_root = ET.Element("deck", name="Merged_Vocabulary")
